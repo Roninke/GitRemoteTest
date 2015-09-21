@@ -1,4 +1,4 @@
 Hello iOS
 Hello Git
 Commit to local repository
-版本控制: branch addButton
+branch addButton: 衝突測試
